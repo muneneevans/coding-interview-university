@@ -18,3 +18,7 @@ Thumbs.db
 
 # Sublime Files
 .sublime
+
+#node modules
+node_modules
+out
